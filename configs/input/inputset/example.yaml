@@ -1,0 +1,10 @@
+GC_1:
+  fast5: PATH_TO_FOLDER_WITH_FAST5_FILES/
+  label: GC
+  name: GC_1
+  reference: PATH_TO_REFERENCE_GENOME_FASTA_FILE
+GmCm_1:
+  fast5: PATH_TO_FOLDER_WITH_FAST5_FILES/
+  label: GmCm
+  name: GmCm_1
+  reference: PATH_TO_REFERENCE_GENOME_FASTA_FILE

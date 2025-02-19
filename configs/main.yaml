@@ -1,0 +1,20 @@
+defaults:
+  - _self_
+  - base_config
+  - input/rna
+  - splitting/default
+  - preprocessing: fixed_window
+  - training/default
+
+paths:
+  cache: PATH_TO_FOLDER_WHERE_INTERMEDIATE_RESULTS_WILL_BE_STORED
+  output: ./output
+
+comet:
+  api_key: ./comet_api_key.txt
+  project_name: PROJECT_NAME_ON_COMET
+  workspace: WORKSPACE_NAME_ON_COMET
+
+hydra:
+  run:
+    dir: ./.hydra

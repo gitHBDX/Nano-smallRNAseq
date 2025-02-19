@@ -1,0 +1,12 @@
+*zip
+*pyc
+*pt
+comet_api_key.txt
+*txt
+.hydra
+nanopore_old/
+nanopore/
+reports/
+*svg
+*pdf
+rna004_130bps_sup@v5.0.0

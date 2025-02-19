@@ -1,0 +1,4 @@
+flowcell: FLO-MIN106 
+kit: SQK-RNA002
+guppy_device: cuda:0
+min_qscore: 7

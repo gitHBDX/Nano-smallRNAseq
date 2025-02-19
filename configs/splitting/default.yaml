@@ -1,0 +1,2 @@
+n_per_label: 50000
+test_size: 0.2

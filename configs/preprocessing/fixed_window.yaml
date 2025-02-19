@@ -1,0 +1,7 @@
+mad_normalize: True
+scale_to_fixed_length: 10_000
+remove_outliers: True
+remove_outliers_max_std: 3
+remove_outliers_window_size: 800
+left_padding: 1808
+window_size: 8192

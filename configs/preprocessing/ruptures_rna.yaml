@@ -1,0 +1,9 @@
+mad_normalize: True
+scale_to_fixed_length: 5_000
+remove_outliers: True
+remove_outliers_max_std: 3
+remove_outliers_window_size: 800
+left_padding: 0
+window_size: 0
+rupture: True
+rupture_part: RNA
